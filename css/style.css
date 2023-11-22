@@ -83,7 +83,6 @@ h4{
 
 .images{
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 10%;
-    transform: translateY(-50%);
 }
